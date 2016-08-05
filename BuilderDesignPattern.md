@@ -1,8 +1,7 @@
----
-title: Android 建造者(Builder)模式
-date: 2016-08-03 13:56:23
-tags: Java 设计模式之建造者（Builder）模式
----
+
+# Android 建造者(Builder)模式
+date: 2016-08-03 13:56:23    tags: Java 设计模式之建造者（Builder）模式
+
 
 
 
@@ -563,4 +562,7 @@ tags: Java 设计模式之建造者（Builder）模式
 ## 参考资料
 
 * ***<<设计模式之蝉>>***  秦小波 著
+
+##个人博客网站
+  http://www,iuni.life
 
